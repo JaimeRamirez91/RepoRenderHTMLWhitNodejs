@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RenderFGK", "RenderFGK\RenderFGK.njsproj", "{80A9DCF5-2DFB-4F3D-AA9E-5C4FA692A70C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A9DCF5-2DFB-4F3D-AA9E-5C4FA692A70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A9DCF5-2DFB-4F3D-AA9E-5C4FA692A70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A9DCF5-2DFB-4F3D-AA9E-5C4FA692A70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A9DCF5-2DFB-4F3D-AA9E-5C4FA692A70C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4166686-835D-4F28-BEBF-A725ED545790}
+	EndGlobalSection
+EndGlobal

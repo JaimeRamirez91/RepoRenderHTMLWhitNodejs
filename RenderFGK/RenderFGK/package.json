@@ -1,0 +1,12 @@
+{
+  "name": "render-fgk",
+  "version": "0.0.0",
+  "description": "RenderFGK",
+  "main": "server.js",
+  "author": {
+    "name": "Jaime Ramírez"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
